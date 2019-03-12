@@ -1,16 +1,16 @@
 {
   "d": [
     {
-       "nombreApp": "MundoExperto",
+       "nombreApp": "mexs.ar.altaCliente",
        "tipoElemento": "Boton",
-       "idElemento": "btnMundoExperto",
-       "autorizacion": "01"
+       "idElemento": "MundoExperto",
+       "autorizacion": "03"
     },
     {
-       "nombreApp": "MundoExperto",
+       "nombreApp": "mexs.ar.adminmundoexperto",
        "tipoElemento": "Boton",
-       "idElemento": "btnMundoExperto",
-       "autorizacion": "01"
+       "idElemento": "bajaButton",
+       "autorizacion": "03"
     }
   ]
 }
