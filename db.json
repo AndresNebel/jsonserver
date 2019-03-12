@@ -1,0 +1,16 @@
+{
+  "d": [
+    {
+       "nombreApp": "MundoExperto",
+       "tipoElemento": "Boton",
+       "idElemento": "btnMundoExperto",
+       "autorizacion": "01"
+    },
+    {
+       "nombreApp": "MundoExperto",
+       "tipoElemento": "Boton",
+       "idElemento": "btnMundoExperto",
+       "autorizacion": "01"
+    }
+  ]
+}
